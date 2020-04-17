@@ -4,7 +4,7 @@ This component is part of the 5G-MEDIA MAPE service. Take a look in the [mape](h
 
 ## Introduction
 
-The role of the Dashboard is to visualize the monitoring data from various sources (e.g. NFVIs/infrastrcuture, VNFs, QoEs, etc) across the time. From implementation point of view, the open source tool [Grafana](https://grafana.com/) has been used.
+The role of the Dashboard is to visualize the monitoring data from various sources (e.g. NFVIs/infrastructure, VNFs, QoEs, etc) across the time. From implementation point of view, the open source tool [Grafana](https://grafana.com/) has been used.
 
 In the frame of the [5G-MEDIA project](http://www.5gmedia.eu/) a set of dashboards were developed. 
 
@@ -72,6 +72,6 @@ This project has received funding from the European Union’s Horizon 2020 resea
 of the information it contains.
 
 ## License
-The 5G-MEDIA dashboards as provided under [Apache 2.0](LICENSE.md) license.
+The 5G-MEDIA dashboards are provided under [Apache 2.0](LICENSE.md) license.
 
 
